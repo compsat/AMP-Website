@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # RewriteBase /amp/
+
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule !\.php$ - [C]
+  RewriteRule .* - [L]
+
+  # rewrite rule that truncates the .php
+  # RewriteRule ^([a-zA-Z0-9\-]+)$ $1.php [NC,L]
+</IfModule>

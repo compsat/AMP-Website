@@ -1,0 +1,6 @@
+[03-Nov-2017 05:10:20 America/Denver] PHP Warning:  require_once(../php/global.php): failed to open stream: No such file or directory in /home4/compsato/public_html/amp/testing/admin/index.php on line 2
+[03-Nov-2017 05:10:20 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../php/global.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/compsato/public_html/amp/testing/admin/index.php on line 2
+[03-Nov-2017 05:17:10 America/Denver] PHP Warning:  require_once(../php/global.php): failed to open stream: No such file or directory in /home4/compsato/public_html/amp/testing/admin/index.php on line 2
+[03-Nov-2017 05:17:10 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../php/global.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/compsato/public_html/amp/testing/admin/index.php on line 2
+[03-Nov-2017 05:17:11 America/Denver] PHP Warning:  require_once(../php/global.php): failed to open stream: No such file or directory in /home4/compsato/public_html/amp/testing/admin/index.php on line 2
+[03-Nov-2017 05:17:11 America/Denver] PHP Fatal error:  require_once(): Failed opening required '../php/global.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/compsato/public_html/amp/testing/admin/index.php on line 2

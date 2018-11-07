@@ -1,0 +1,29 @@
+section {
+	height: 100%;
+}
+
+.slide > .wrapper {
+	text-align: left;
+	left: 10%;
+
+	position: absolute;
+	bottom: 15%;
+
+	min-width: 400px;
+	max-width: 50%;
+
+	font-family: DrescherGrotesque, Verdana;
+}
+
+.slide h1::before, .slide h1::after {
+	content: '"';
+}
+
+.slide p {
+	font-size: 0.6em;
+	font-style: italic;
+}
+
+.slide p::before {
+	content: '-   ';
+}

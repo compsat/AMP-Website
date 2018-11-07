@@ -1,0 +1,28 @@
+[16-Apr-2016 17:25:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 18
+[16-Apr-2016 17:25:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 18
+[16-Apr-2016 17:26:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 18
+[16-Apr-2016 17:46:18] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 17:47:37] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 17:49:34] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 17:51:06] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:00:38] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:03:21] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:03:44] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:04:04] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:06:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/compsato/public_html/amp/test/php/global.php:384) in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:06:14] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 55
+[16-Apr-2016 18:23:26] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 55
+[16-Apr-2016 18:25:03] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:25:38] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:27:13] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:34:00] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 18:35:56] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:36:08] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:36:12] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:37:01] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:37:44] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:38:24] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:39:25] PHP Fatal error:  Call to undefined function  authenticated() in /home4/compsato/public_html/amp/test/admin/php/json.ajax.php on line 3
+[16-Apr-2016 18:40:46] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/compsato/public_html/amp/test/php/global.php on line 54
+[16-Apr-2016 20:12:29] PHP Warning:  move_uploaded_file(/home4/compsato/public_html/amp/test/images/bg/5712f10d240d2.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home4/compsato/public_html/amp/test/admin/php/upload.ajax.php on line 38
+[16-Apr-2016 20:12:29] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/var/tmp/phpTNXHBs' to '/home4/compsato/public_html/amp/test/images/bg/5712f10d240d2.jpg' in /home4/compsato/public_html/amp/test/admin/php/upload.ajax.php on line 38
