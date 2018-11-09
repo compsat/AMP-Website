@@ -2,28 +2,20 @@ section {
 	height: 100%;
 }
 
-.slide > .wrapper {
-	text-align: left;
-	left: 10%;
 
-	position: absolute;
-	bottom: 15%;
-
-	min-width: 400px;
-	max-width: 50%;
-
-	font-family: DrescherGrotesque, Verdana;
+#home{
+  height: 100vh;
+  background: #212121;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.slide h1::before, .slide h1::after {
-	content: '"';
-}
-
-.slide p {
-	font-size: 0.6em;
-	font-style: italic;
-}
-
-.slide p::before {
-	content: '-   ';
+#home h1 {
+  font-size: 3em;
+  color: #E74265;
 }
