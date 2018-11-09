@@ -98,9 +98,9 @@
 			if ($limit == 0) $link = '';
 		}
 		if ($ext === 'css') { ?>
-			<link rel='stylesheet' type='text/css' href='<?php echo $link; ?>?ver=2.1'>
+			<link rel='stylesheet' type='text/css' href='<?php echo $link; ?>'>
 		<?php } else if ($ext === 'js') { ?>
-			<script src='<?php echo $link; ?>?ver=2.1'></script>
+			<script src='<?php echo $link; ?>'></script>
 		<?php } else if ($ext === 'php') {
 			require_once $link;
 		}
