@@ -17,4 +17,5 @@
 			<h1>Bigger than the sound</h1>
 		</div>
 	</body>
+	<?php createFooter('Home'); ?>
 </html>
