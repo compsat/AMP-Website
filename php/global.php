@@ -228,9 +228,6 @@
 			?></div>
 			<div id='menu-label'><?php echo $menuLabel; ?></div>
 			<a class='amp-logo' href='/index.php' title='Home'></a>
-			<div id='search-bar'>
-				<input type='text' placeholder='Search'></input>
-			</div>
 			<base href=''>
 			<div id='widget-container'></div>
 			<base href='/'>
