@@ -236,6 +236,22 @@
 			<base href='/'>
 		</header>
 	<?php }
+
+	function createFooter($menuLabel) { ?>
+		<base href='/'>
+		<footer class='footer'>
+			<div id='footer-left'>
+				<img src='../images/icons/logo-white-small.png'/>
+				<h4> AMP </h4> 
+			</div>
+			<div id='footer-right'>
+				<p>(+63) 917 689 0909<p>
+				<p>Ateneo de Manila University<p>
+				<p>ateneomusicianspool@gmail.com<p>
+			</div>
+		</footer>
+	<?php }
+
 	/**
 	 * Convenient method for array key-value acquisition.
 	 * @param array $array input array
