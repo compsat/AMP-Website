@@ -1,0 +1,50 @@
+.article .wrapper {
+    padding: 50px;
+    text-align: left;
+    max-width: 1000px;
+}
+
+.main-content {
+    text-align: left;
+    color: #000;
+    background-color:#FFF;
+    padding: 50px;
+}
+
+.main-content h4 {
+    letter-spacing: 3pt;
+}
+
+.main-content p {
+    font-family: Avenir;
+    font-size: 12pt;
+    letter-spacing: 0.5pt;
+    line-height: 20pt;
+}
+
+.main-content b {
+    font-weight:900;
+}
+
+.main-image {
+    padding:30pt;
+    display:flex;
+    justify-content: center;
+}
+.main-image img {
+    width:800px;
+    height:auto;
+}
+
+.subheading {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.subheading p{
+    font-family: Avenir;
+    padding: 5px;
+    font-size: 10pt;
+    font-weight:normal;
+}
