@@ -75,6 +75,7 @@
 			</section>
 			<section class='feature'>
 				<div class='feature-labels'><?php
+					echo paragraph(json('executive board'));
 					$eb = json('executive board');
 					$id = 0;
 					foreach ($eb as &$executive) { ?>
