@@ -241,11 +241,10 @@
 		<base href='/'>
 		<footer class='footer'>
 			<div id='footer-left'>
-				<img src='../images/icons/logo-white-small.png'/>
-				<h4> AMP </h4> 
+				<img src='../images/icons/footer_logo.png'/>
 			</div>
 			<div id='footer-right'>
-				<p>(+63) 917 689 0909<p>
+				<p>(+63) 123 456 7890<p>
 				<p>Ateneo de Manila University<p>
 				<p>ateneomusicianspool@gmail.com<p>
 			</div>
