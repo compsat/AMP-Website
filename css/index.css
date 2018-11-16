@@ -5,7 +5,6 @@ section {
 
 #home{
   height: 90vh;
-  background: #212121;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -21,27 +20,25 @@ section {
 }
 
 .footer {
-  display: flex;
+  background-color: #E74265;
   align-items: center;
   justify-content: space-between;
   height: 10vh;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  bottom:0;
 }
 
 #footer-left {
-  margin-left: 20pt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #footer-left img{
-  display: flex;
-  justify-content: center;
   margin: 5pt;
-  max-height: 30pt;
-}
-
-#footer-left h4 {
-  display: flex;
-  justify-content: center;
-  font-size: 9pt;
+  max-height: 100pt;
 }
 
 #footer-right {
