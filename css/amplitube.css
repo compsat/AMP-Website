@@ -63,3 +63,35 @@
     width: 400px;
     height: auto;
 }
+
+.footer {
+    background-color: #E74265;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    bottom:0;
+  }
+  
+  #footer-left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #footer-left img{
+    margin: 5pt;
+    max-height: 100pt;
+  }
+  
+  #footer-right {
+    margin: 10pt;
+    /* margin-right: 20pt; */
+  }
+  
+  #footer-right p {
+    text-align: right;
+    font-size: 9pt;
+  }

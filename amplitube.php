@@ -42,5 +42,6 @@
             </div>
         </div>
     </body>
+    <?php createFooter('Amplitube') ?>
 </html>
         
