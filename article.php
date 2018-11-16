@@ -83,4 +83,5 @@
             </div>
         </div>
     </body>
+    <?php createFooter('article') ?>
 </html>
