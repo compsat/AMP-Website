@@ -5,8 +5,8 @@
 	// derive the year level of eb member from the current date and date of enrollment
 	function year_level($year) {
 		$month = 5;
-		$year_now = date('Y');
-		$month_now = date('M');
+		$year_now = (int) date('Y');
+		$month_now = (int) date('M');
 		$months_diff = $year_now * 12 + $month_now - $year * 12 - $month;
 		return (int) ($months_diff / 12) + 1;
 		// $year_diff = date_diff(date_create('now'), date_create($year.'-05-01'));
@@ -75,7 +75,6 @@
 			</section>
 			<section class='feature'>
 				<div class='feature-labels'><?php
-					echo paragraph(json('executive board'));
 					$eb = json('executive board');
 					$id = 0;
 					foreach ($eb as &$executive) { ?>
