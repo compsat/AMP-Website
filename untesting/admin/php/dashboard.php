@@ -10,7 +10,7 @@
       <dt><a href='<?= absolute_path('admin/pages/about/eboard.php') ?>'>E Board</a></dt>
       <dt><a href='<?= absolute_path('admin/pages/about/departments.php') ?>'>Departments</a></dt>
     </dl></dd>
-    <dt><a href='<?= absolute_path('admin/pages/amplitube.php') ?>'>Amplitube</a></dt>
+    <dt><a href='<?= absolute_path('admin/pages/amplitube.php') ?>'>Tube</a></dt>
     <dt><a href='<?= absolute_path('admin/pages/amplugged.php') ?>'>Amplugged</a></dt>
     <dt><a href='<?= absolute_path('admin/pages/artists/') ?>'>Artists</a></dt>
     <dd><dl>

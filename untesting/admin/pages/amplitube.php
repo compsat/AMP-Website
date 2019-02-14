@@ -11,15 +11,15 @@ source('dashboard.php');
 		<?php source('editor.css'); ?>
 		<?php source('jquery-ui.min.js'); ?>
 		<?php source('message.js'); ?>
-		<title>AMP Admin - Amplitube</title>
+		<title>AMP Admin - Tube</title>
 	</head>
 	<body id='holy-grail'>
 		<?php createAdminBackground() ?>
-		<?php createHeader('Amplitube'); ?>
+		<?php createHeader('Tube'); ?>
 		<div id='container'>
 			<div id='main-content'>
 				<div>
-					<h1>Amplitube</h1>
+					<h1>Tube</h1>
 					<ul>
 						<li>Go to <a href='https://amplitubeonline.tumblr.com' target='_blank'><code>https://amplitubeonline.tumblr.com</code></a> and edit blog content there.</li>
 					</ul>

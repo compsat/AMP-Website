@@ -11,7 +11,7 @@
         <title>Ateneo Musician's Pool - Tube Magazine</title>
     <head>
     <body id='holy-grail'>
-        <?php createHeader('Amplitube'); ?>
+        <?php createHeader('Tube'); ?>
         <div class='amplitube'>
             <div class='wrapper'>
                 <a href='/amplitube.php'><img id='tube' src='/../images/icons/tube_logo.png'></a>
@@ -40,6 +40,6 @@
             </div>
         </div>
     </body>
-    <?php createFooter('Amplitube') ?>
+    <?php createFooter('Tube') ?>
 </html>
         

@@ -29,7 +29,7 @@
     queryInsert($db, 'menu', array(null, 1, 0, 'home', '/index.php', null));
     queryInsert($db, 'menu', array(null, 1, 1, 'about', '/about.php', null));
     queryInsert($db, 'menu', array(null, 1, 2, 'artists', '/artists.php', null));
-    queryInsert($db, 'menu', array(null, 1, 3, 'amplitube', null, null));
+    queryInsert($db, 'menu', array(null, 1, 3, 'tube', null, null));
     queryInsert($db, 'menu', array(null, 1, 4, 'results roster', '/results.php', null));
 
     // EXECUTIVE BOARD
