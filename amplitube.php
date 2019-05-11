@@ -16,9 +16,9 @@
             <div class='wrapper'>
                 <a href='/amplitube.php'><img id='tube' src='/../images/icons/tube_logo.png'></a>
             </div>
-            <div class='wrapper'>
-                <h1><?php echo get($meta, 'about-heading'); ?></h1>
-                <p><b>Tube</b> aims to foster an environment of discourse through works and articles that are critically and creatively engaged in music and its context.</p>
+            <div class='wrapper' style="text-align:center;padding-bottom:100px">
+                <img src='/../images/icons/tube_logo_big.png' width="580" height="205">
+                <p>Ateneo Musician's Pool Official Publication</p>
             </div>
             <div id='chevron'>
                 <img src='../images/icons/chevron_down.png'>

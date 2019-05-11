@@ -139,7 +139,7 @@
 
 		// start the session
 		// @see http://stackoverflow.com/questions/6249707/check-if-php-session-has-already-started
-		if(session_id() == '')
+		if(session_id() == PHP_SESSION_NONE)
 			session_start();
 
 		// check if a new password was inputted
@@ -241,7 +241,6 @@
 				<img src='../images/icons/footer_logo.png'/>
 			</div>
 			<div id='footer-right'>
-				<p>(+63) 123 456 7890<p>
 				<p>Ateneo de Manila University<p>
 				<p>ateneomusicianspool@gmail.com<p>
 			</div>
